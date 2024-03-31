@@ -2,7 +2,7 @@ import java.util.Scanner
 import kotlin.collections.ArrayList
 import kotlin.math.pow
 
-fun main() {
+fun main(args: Array<String>) {
     val scanner: Scanner = Scanner(System.`in`)
 
     scanner.use {
